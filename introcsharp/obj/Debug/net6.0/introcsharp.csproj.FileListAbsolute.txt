@@ -1,0 +1,15 @@
+C:\Users\Akib\source\repos\introcsharp\bin\Debug\net6.0\introcsharp.exe
+C:\Users\Akib\source\repos\introcsharp\bin\Debug\net6.0\introcsharp.deps.json
+C:\Users\Akib\source\repos\introcsharp\bin\Debug\net6.0\introcsharp.runtimeconfig.json
+C:\Users\Akib\source\repos\introcsharp\bin\Debug\net6.0\introcsharp.dll
+C:\Users\Akib\source\repos\introcsharp\bin\Debug\net6.0\introcsharp.pdb
+C:\Users\Akib\source\repos\introcsharp\obj\Debug\net6.0\introcsharp.csproj.AssemblyReference.cache
+C:\Users\Akib\source\repos\introcsharp\obj\Debug\net6.0\introcsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akib\source\repos\introcsharp\obj\Debug\net6.0\introcsharp.AssemblyInfoInputs.cache
+C:\Users\Akib\source\repos\introcsharp\obj\Debug\net6.0\introcsharp.AssemblyInfo.cs
+C:\Users\Akib\source\repos\introcsharp\obj\Debug\net6.0\introcsharp.csproj.CoreCompileInputs.cache
+C:\Users\Akib\source\repos\introcsharp\obj\Debug\net6.0\introcsharp.dll
+C:\Users\Akib\source\repos\introcsharp\obj\Debug\net6.0\refint\introcsharp.dll
+C:\Users\Akib\source\repos\introcsharp\obj\Debug\net6.0\introcsharp.pdb
+C:\Users\Akib\source\repos\introcsharp\obj\Debug\net6.0\introcsharp.genruntimeconfig.cache
+C:\Users\Akib\source\repos\introcsharp\obj\Debug\net6.0\ref\introcsharp.dll
